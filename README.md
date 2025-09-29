@@ -7,7 +7,6 @@ General starter code for creative model architecture with huggingface transforme
 Change the cuda version if it is not compatible. Developped with python 3.12.4.
 
 ```bash
-conda install pytorch pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
 
