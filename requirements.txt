@@ -9,4 +9,4 @@ scikit-learn
 liger-kernel
 
 packaging
-flash-attn
+# flash-attn
