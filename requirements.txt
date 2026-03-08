@@ -10,3 +10,4 @@ liger-kernel
 
 packaging
 # flash-attn
+wandb

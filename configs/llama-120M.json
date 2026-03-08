@@ -19,7 +19,7 @@
   "rope_scaling": null,
   "tie_word_embeddings": false,
   "tokenizer_class": "LlamaTokenizer",
-  "torch_dtype": "float32",
+  "torch_dtype": "bfloat16",
   "transformers_version": "4.45.2",
   "use_cache": true,
   "vocab_size": 32000
